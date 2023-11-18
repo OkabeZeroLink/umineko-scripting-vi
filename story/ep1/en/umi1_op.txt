@@ -205,82 +205,82 @@
 ` Một người đàn ông chân chính cần phải có khí chất nữa!`
 ` Phải rèn luyện hết mình và chờ đợi.`
 ` Cứ làm vậy rồi thời cơ sẽ tới!"`
-`"Now, even I never imagined that I'd become the company president I am today, master of my own domain...`
-` Yep, to think I've come this far after starting out penniless and ruined...!"`
-`This portly and slightly chubby man...`
-`is George‐aniki's dad, Uncle Hideyoshi ({p:0:秀吉}).`
-`He's the husband of Dad's older sister.`
-`{n}In other words, we're not blood‐related.`
-`He's nice to children, sociable all the time, even quick to give out some spending money to us kids—simply put, he's an awesome uncle.`
-`He speaks in an odd and very noticeable Kansai‐style dialect seemingly of his own creation, but he's actually a natural‐born Kanto man.`
-`Apparently, leaving an impression is everything in the business world,`
-` so speaking in a different style than other people is an act that makes him stick out more.`
-`......However, I hear that he gets embarrassed when talking within earshot of a real Kansai person, so he switches back to standard Japanese.`
-`...I don't really get it, but he's definitely an interesting person.`
-`"If only you weren't so quick to brag about your life's story.`
-` That's enough for now, I think.`
-` I'm sure Battler‐kun's getting tired of it.`
-` Aren't you?"`
-`"Nope, not at all, hihihi!`
-` Nothing wrong with that.`
-` I think it's pretty cool for a man to have some stories he can brag about.`
-` I don't have anything like that at all."`
-`"Oh, really?`
-` I'd imagine a man with your looks would leave girls crying left and right, so I have trouble believing that you have nothing at all to brag about..."`
-`"Nonononono!`
-` Y‐y‐`
-`you're joking, right?!`
-` Of course nothing weird like that's ever happened to me!`
-` In fact, if you know anyone, I'm all ears!"`
-`"Oh, I'm sure you do have some stories!`
-` ...*giggle* You must tell your aunt all about it later.`
-` After all, George never comes to me with anything of the sort.`
+`"A, bác không nghĩ tới việc có ngày mình trở thành tổng giám đốc quyền thế một phương...`
+` Thuở ban đầu bác đây chỉ là một kẻ rỗng túi mà thôi!"`
+`Người đàn ông mập mạp này...`
+`là bố của George‐aniki, bác trai Hideyoshi ({p:0:秀吉}).`
+`Bác ấy là chồng của chị gái ông già tôi.`
+`{n}Nói khác, chúng tôi không có quan hệ máu mủ gì.`
+`Bác là người phóng khoáng, tốt bụng với trẻ con lại hay cho chúng tôi tiền tiêu vặt—tóm lại, bác là một người bác tuyệt vời.`
+`Tuy bác nói với một chất giọng Kansai có vẻ do chính dượng tự tạo ra, bác là một người Kanto chính gốc.`
+`Bác thường nói ấn tượng đầu tiên rất quan trọng trong thế giới thương mại,`
+` nên bác ấy mới dùng giọng điệu khác vậy để lưu lại ấn tượng sâu sắc hơn.`
+`......Chỉ là, nghe đâu rằng bác thấy xấu hổ khi nói chuyện với người Kansai thực thụ, nên khi ấy bác mới nói bằng giọng bình thường.`
+`...Tuy tôi không hiểu lắm, nhưng bác chắc chắn là một người rất thú vị.`
+`"Vừa nói được hai ba cấu đã lại khoe khoang rồi.`
+` Em thấy nói vậy là đủ rồi đó.`
+` Battler‐kun chắc cũng nghe nhàm tai rồi đó,`
+` phải không?"`
+`"Không đâu ạ, hihihi!`
+` Đó là điều tốt mà bác.`
+` Cháu nghĩ có chuyện để lấy làm tự hào thì thật ngầu đó chứ.`
+` Cháu chẳng có chuyện nào như vậy hết."`
+`"Ồ, thật à?`
+` Bác tưởng đẹp trai thế này thì gái nào chả mê như điếu đổ. Bác chẳng tin nổi là cháu không có chuyện gì lấy làm tự hào đâu..."`
+`"Không không không!`
+` B‐b‐`
+`bác đừng giỡn như vậy chứ?!`
+` Cháu làm gì có chuyện nào như vậy đâu!`
+` Thực ra cháu còn đang tìm người mai mối cho đây này!"`
+`"Ơ kìa, cháu nhất định có rồi phải không?`
+` ...*khúc khích* Cháu nhớ phải bảo cho bác đó.`
+` Chẳng bù cho George nhà bác ở mấy chuyện này chẳng có chút tin tức nào.`
 ` Heheheh..."`
-`This is my aunt and George‐aniki's mother, Auntie Eva ({p:0:絵羽}).`
-`She's my dad's older sister.`
-`{n}She and Uncle Hideyoshi are a pair of jokers, and they've always teased me back as far as I can remember.`
-`This sometimes made them a bit hard to get along with when I was small.`
-`{n}...That said, I'm currently in the process of discovering that they still are hard to get along with.`
-`Even so, George‐aniki's family is interesting and fun, and they seem to get along just fine.`
-`......Sheesh, that's pretty much the total opposite of my family.`
+`Đây là bác gái của tôi và mẹ của George‐aniki, bác Eva ({p:0:絵羽}).`
+`Bác ấy là chị của ông già tôi.`
+`{n}Bác ấy và bác Hideyoshi thường rất hài hước, và thường hay trêu chọc tôi từ lúc tôi còn nhỏ.`
+`Bởi vậy nên hồi nhỏ tôi khó mà hòa hợp được với hai người họ.`
+`{n}...Và có vẻ hiện tại tôi với hai người họ cũng như vậy.`
+`Nói thế nào đi chăng nữa, gia đình George‐aniki trông rất thú vị và vui vẻ, và trông cũng rất hòa thuận.`
+`......So với nhà tôi thì khác một trời một vực.`
 `"Battler‐kun,`
-` have you seen Rudolf‐san?"`
-`"Huh?`
-` He headed off to the bathroom a while ago.`
-` Is he {i:still} not back?`
-` Heh, maybe the poor geezer dropped dead... {c:86EF9C:Namunamunamu}."`
-`"That's no way to talk about your own father.`
-` Still, this isn't the first time he's taken so long in the bathroom."`
-`"Yeah, the guy's always been that way.`
-` Does he really have to take a magazine with him every time he needs to take a dump?`
-` Oh, what on Earth might he be doing with those?!`
+` cháu thấy Rudolf‐san ở đâu không?"`
+`"Hả?`
+` Hình như ông ta lúc nãy mới vô toilet đây.`
+` Ông ta {i:vẫn} chưa ra à?`
+` Chắc ông già vãng sinh rồi... {c:86EF9C:A di đà Phật}."`
+`"Đừng nói về cha mình như vậy chứ.`
+` Có điều, anh ấy dạo này cũng thường đi rất lâu."`
+`"Cái tên ngốc kia lúc nào chả vậy.`
+` Ông ta thực sự phải lấy đọc tạp chí mỗi lần đi toilet à?`
+` Ôi, không biết ổng đang làm gì ở trong nữa?!`
 ` Ihihi!"`
-`"Oh, you don't need to worry about that at all.`
-` As long as we're together, I won't be letting him do that on his own."`
+`"Ồ, cháu khỏi phải lo chuyện ấy.`
+` Nếu ở bên cạnh dì thì dì không bao giờ để ảnh làm chuyện ấy đâu."`
 `"Hihihi!`
-` Oooh, I'll have to get the juicy details later!`
-` Sounds like Dad's got his balls in an iron grip."`
-`"You know exactly what would happen with that man if I didn't keep a tight grip, don't you?"`
-`"Oh, no kidding.`
-` You're the only one capable of reigning in that old bastard.`
-` As his son, I'm more than happy to let you take over."`
-`"Yes, leave it all to me.`
-` After all, that's my specialty."`
-`This woman is my dad's wife.`
-`Her name is Ushiromiya Kyrie ({p:0:霧江}).`
-`As you can probably tell from our conversation, she's not my real mother.`
-`{n}She's basically my stepmother.`
-`My real mom died six years ago.`
-`{n}Kyrie‐san is the woman Dad married afterwards.`
-`I mean, I'm not a kid anymore.`
-`{n}It's way too late now for me to start calling his second wife "Mom".`
-`And I doubt she feels like using the word "son" on this massive kid who's no relation to her at all.`
-`We aren't little kids.`
-`{n}We know there's nothing to be gained by fighting.`
-`So, we decided that we wouldn't force ourselves to pretend that we were family.`
-`{n}I've decided to act a bit more frank with her, as though she's a friendly neighbor instead.`
-`It's much easier to just keep a little distance, instead of forcing ourselves to act all close and making each other uncomfortable.`
-`Kyrie‐san has been very open about all this, and thanks to that, we've been able to get along pretty well.`
+` Oooh, cháu phải nghe chi tiết sau vậy!`
+` Té ra là bởi 'sinh mệnh' bị siết chặt quá à."`
+`"Nếu không quấn chặt một chút thì cháu biết sẽ xảy ra chuyện gì mà?"`
+`"Đúng là không sai.`
+` Chỉ có dì mới ghim cương được ông già thôi.`
+` Là con ruột, ngay cả cháu cũng phải né sang một bên nữa là."`
+`"Rồi, cứ giao cho dì.`
+` Chuyện này là sở trường của dì mà."`
+`Dì ấy là vợ của ông già nhà tôi.`
+`Tên dì ấy là Ushiromiya Kyrie ({p:0:霧江}).`
+`Qua cuộc trò chuyện của chúng tôi thì chắc bạn cũng hiểu rằng dì ấy không phải mẹ ruột của tôi.`
+`{n}Dì ấy căn bản là mẹ kế của tôi.`
+`Mẹ ruột tôi đã mất sáu năm trước.`
+`{n}Kyrie‐san là người mà ông già tái hôn.`
+`Tôi không phải đứa trẻ ngây thơ chưa biết gì nữa.`
+`{n}Thực sự không có cách nào để tôi xưng dì ấy là mẹ.`
+`Và tôi không nghĩ là dì ấy muốn kêu thằng nhóc đã lớn lại không cùng huyết thống là con trai.`
+`Chúng tôi không còn là mấy đứa nhóc nữa.`
+`{n}Chúng tôi biết rằng có cãi nhau cũng chẳng giải quyết được gì.`
+`Vậy nên chúng tôi quyết định không cần miễn cưỡng sắm vai người nhà.`
+`{n}Tôi quyết định coi dì ấy là hàng xóm nhà bên để chúng tôi có thể thoải mái hơn.`
+`Chúng tôi giữ khoảng cách sẽ dễ dàng hơn rất nhiều, thay vì tự ép mình phải thân thiết để rồi cả hai lại khó xử.`
+`Kyrie‐san cũng rất thoải mái về chuyện này, nhờ vậy nên mối quan hệ giữa chúng tôi khá là tốt.`
 `As we were capitalizing on Dad being away in the bathroom to badmouth him,`
 ` the man himself came back, wiping his hands with a handkerchief.`
 `"Hmm?`
