@@ -1,9 +1,9 @@
-name: Compile
+name: CI
 
 on:
   push:
     branches:
-      - master-vi
+      - master
   pull_request:
 
 jobs:
