@@ -288,56 +288,56 @@
 `"Gì vậy, ông già?"`
 `"...Đau quá!`
 ` ĐỪng có nhéo tai của tôi!"`
-`"So, you've been talking trash about me with Mom again, haven't you?`
-` What makes it so hard to show a little respect for your father, hmm?"`
+`"Vậy mày lại nói xấu tao với mẹ à?`
+` Sao mày lại không tôn kính người làm cha này thế hả?"`
 `"Owowow, owowowowow!`
-` Dammit, that hurts, you old bastard!`
-` Stretch my ear all you want, I'm still not gonna be able to fly—owwwww!!"`
-`"C'mon now.`
-` Upwards,`
-` upwards,`
-` sideways,`
-` sideways,`
-` round in a circle,`
-` back the other way,`
-` multiplier maxed out,`
-` with an extra x2 on top!`
-` Now say "Father, please forgive me for being so rude"."`
-`"Like hell I will, go find yourself some members‐only store if you want it that much!`
-` Gyaah, let goooo!!"`
-`......This old bastard is my dad.`
-`{n}I think I'm pretty tall, but Dad's about the same height.`
-`It's probably no surprise that Auntie Eva started talking about Dad's blood when she saw my height.`
-`By the way, my height isn't the only thing I got from him.`
-`{n}It seems having weird names runs in the family.`
-`Dad's full name is written {p:0:右代宮 留弗夫}.`
-`......Can you read it?`
-` Not many could, I'll tell you that.`
-`{n}That mess of characters is pronounced "Rudolf".`
-`Haha...he must hate Grandfather for giving him that name.`
-`Still, that's no reason to pass that weird naming tradition onto me.`
-`As the old bastard twisted my ear all over the place, Auntie Eva snuck up behind him and grabbed his ear.`
-`"Hey, Rudolf?`
-` Don't take your frustrations out on your kid."`
-`"Gyaah, that hurts, Aneki..."`
-`The scene before me was a perfect realization of the trope of the older sister who deals out punishment to her prankster younger brother despite his size.`
-`"I think that's good enough for now, Eva nee‐san.`
-` I'll make sure to stretch out his other ear later on."`
-`"Oh, my apologies.`
-` I must leave some pulling for you to do, Kyrie‐san."`
+` Chết tiệt, đau lắm đấy ông già!`
+` Có véo tai tôi mấy thì tôi cũng không bay được đâu—owwwww!!"`
+`"Nào.`
+` Lên,`
+` lên,`
+` xuống,`
+` xuống,`
+` trái,`
+` phải,`
+` trái,`
+` phải!`
+` Giờ nói "Cha ơi, con xin lỗi vì đã vô lễ với cha" đi nào."`
+`"Mơ đi ông già, còn lâu tôi mới nói!`
+` Gyaah, thả ra!!"`
+`......Đây là ông già nhà tôi.`
+`{n}Tôi tự nhận mình là rất cao, nhưng chiều cao của ông ta cũng không khác nhau là mấy.`
+`Khó trách bác Eva thường nói chiều cao của tôi là di truyền.`
+`Có điều đây không phải là thứ duy nhất tôi được di truyền từ ông ta.`
+`{n}Hình như có mấy cái tên lạ kiểu này là di truyền trong toàn gia tộc.`
+`Tên đầy đủ của ông ta là {p:0:右代宮 留弗夫}.`
+`......Bạn đọc được không?`
+` Chắc không rồi.`
+`{n}Cái mớ chữ khi phát âm là "Rudolf".`
+`Haha...chắc ông già ghét cái tên ông nội đặt cho lắm.`
+`Ghét gì thí ghét, cũng đừng bắt tôi kế thừa truyền thống này chứ.`
+`Lúc ông già mải mê đùa nghịch tai tôi, bác Eva đã nắm lấy tai ổng từ phía sau.`
+`"Nè, Rudolf?`
+` Đừng bắt nạt con mình vậy chứ."`
+`"Gyaah, đau lắm đó, Aneki..."`
+`Đúng là đứa em trai dù ác đến mấy cũng không thoát khỏi tay của chị gái.`
+`"Em nghĩ vậy là được rồi, Eva nee‐san.`
+` Lát nữa em sẽ cho tai còn lại của anh ấy lãnh đủ."`
+`"Oh, chị xin lỗi.`
+` Em cũng phải có phần chứ, Kyrie‐san."`
 `"Rudolf?`
-` Make sure Kyrie‐san gives you lots and lots of punishment later on, alright?"`
-`"You're one to talk, Aneki, bullying your little brother like that."`
-`"Hideyoshi nii‐san, I'd like to thank you very much for picking her up.`
-` If you hadn't been so generous, she'd still be unsold in the store.`
-` You have my gratitude and apologies."`
+` Nhớ đảm bảo rằng Kyrie‐san phạt em nhiều vào, được chưa?"`
+`"Aneki bắt nạt đứa em trai của mình thế mà vẫn gọi là được à."`
+`"Hideyoshi nii‐san, cảm ơn anh đã chịu cưới bà chị nhà em.`
+` Nếu anh không bao dung vậy thì chắc chị ta còn ế dài dài.`
+` Em thực sự rất xin lỗi và cảm ơn anh rất nhiều."`
 `"...Hmm~?!`
-` Who are you calling "unsold"?"`
-`After taking two or three steps back,`
-` Auntie Eva unleashed one of her beautiful high reverse roundhouse kicks, which stopped just a centimeter away from the tip of Dad's nose.`
-`After starting out with Tai‐chi‐chuan for her figure, Auntie Eva had then developed an interest in the Chinese martial arts.`
-` After that, she went through karate, taekwondo, capoeira, ...and what is it she's learning now, again?`
-`...Well, anyway, they say a woman's weapons are in her lower body, and that's literally true for Auntie Eva.`
+` Mày bảo ai "ế dài dài"?"`
+`Sau khi lùi lại hai ba bước,`
+` bác Eva làm một động tác đá xoáy, dừng trước ông già chỉ đúng một centimet.`
+`Ban đầu bác ấy học Thái cực quyền để giữ dáng, sau đó bác Eva bắt đầu đam mê quyền pháp Trung Quốc.`
+` Sau này, bác ấy học karate, taekwondo, capoeira, ...và giờ là gì đây?`
+`...Nói chung, câu "Vũ khí của đàn bà đều nằm ở nửa dưới" hoàn toàn đúng theo nghĩa đen với bác Eva.`
 `"Rudo~lf?`
 ` Did you know that a single direct blow to the side of the head like that would knock you unconscious?`
 ` Not so long ago, I accidentally connected in a practice match, and my opponent was out cold."`
