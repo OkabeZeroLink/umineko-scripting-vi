@@ -68,7 +68,7 @@ jobs:
           zip -qry umineko-tr-scripts_r${BUILD}_dev.zip tr.txt tr.cfg || exit 1
           zip -qry umineko-idn-scripts_r${BUILD}_dev.zip idn.txt default.cfg || exit 1
           zip -qry umineko-vi-scripts_r${BUILD}_dev.zip vi.txt vi.cfg || exit 1
-          zip -qry umineko-vi-scripts_r${BUILD}_dev.zip jp.txt jp.cfg || exit 1
+          zip -qry umineko-jp-scripts_r${BUILD}_dev.zip jp.txt jp.cfg || exit 1
           cd ..
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php script ciout/ru.txt "ciout/ru.file" "$LAST_RU" || exit 1
@@ -91,7 +91,7 @@ jobs:
           zip -qry umineko-tr-scripts_r${BUILD}.zip tr.file tr.cfg || exit 1
           zip -qry umineko-idn-scripts_r${BUILD}.zip idn.file default.cfg || exit 1
           zip -qry umineko-vi-scripts_r${BUILD}.zip vi.file vi.cfg || exit 1
-          zip -qry umineko-vi-scripts_r${BUILD}.zip jp.file jp.cfg || exit 1
+          zip -qry umineko-jp-scripts_r${BUILD}.zip jp.file jp.cfg || exit 1
           cd ..
           cd extra
           zip -qry ../ciout/extra_${TODAY}.zip * || exit 1
